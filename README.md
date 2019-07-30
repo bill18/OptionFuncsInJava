@@ -6,6 +6,8 @@ It was done a while ago, I lost my original source code but found the jar file. 
 
 Part of the code has been rewritten with new features in Java 8, e.g. Lambda expression, etc.
 
+The UI packages depend on old jgoodies versions. It is hard to find, so I put it here for convenience. Credit belongs to *jgoodies*.
+ 
 The calculator looks like the following:
 
 ![Demo](./images/opt_calc_demo.png "Option Calculaor Demo")
